@@ -1,11 +1,15 @@
-<!-- Hacker style banner -->
-
 <h1 align="center">Hi 👋 I'm Vikram</h1>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00FF9C&center=true&vCenter=true&width=700&lines=Cybersecurity+Enthusiast;Aspiring+SOC+Analyst;Defensive+Security+Enthusiast;Security+Tool+Developer;OSINT+Explorer" />
 </p>
 
----
+## 🌐 Portfolio
+
+👉 [https://your-portfolio-link.com](https://your-portfolio-link.com)
+
+## LinkedIn
+
+👉 [https://www.linkedin.com/in/vikram-g-d-19b3b7328/](https://www.linkedin.com/in/vikram-g-d-19b3b7328/)
 
 ## 👨‍💻 About Me
 
@@ -37,21 +41,51 @@ I enjoy learning through **CTFs, security research, and developing tools that he
 
 ## 🧪 Featured Projects
 
-### 🔐 BruteSafe
+### 🧠 KramCom CTF Platform
+Custom-built **Capture The Flag (CTF) lab** designed to simulate real-world cybersecurity challenges.
 
-Client-side **password security toolkit** that checks password strength, performs real-time entropy analysis, detects breaches *(offline safe)*, and generates secure passwords.
+- 🕵️‍♂️ Covers **Web Exploitation, OSINT, and Privilege Escalation**
+- 🚩 Includes **7 hands-on flags** with progressive difficulty  
+- ⚙️ Built for **practical attacker mindset training**
+- 🧪 Realistic vulnerable environments  
+
+🔗 [View Project](https://github.com/Vikram2003-07/kramcom-ctf)
 
 ---
 
-### 🕵️ OSINT Enrichment Tool
+### 🔐 BruteSafe - OSINT Security Toolkit
+Browser-based **password intelligence & security toolkit**.
 
-Automated **IOC enrichment** using:
+- 🔐 Generates **secure passwords**
+- 📊 Performs **entropy & strength analysis**
+- 🕵️ Detects **data breaches (privacy-safe)**
+- ⚡ Fully **client-side (no data leakage)**  
 
-* VirusTotal
-* AbuseIPDB
-* GeoIP
+🔗 [View Project](https://github.com/Vikram2003-07/BruteSafe)
 
-Designed to help analysts quickly gather intelligence on suspicious indicators.
+---
+
+### 🤖 Automated IOC Enrichment Tool
+SOC-focused **threat intelligence automation tool**.
+
+- 🔍 Automates **IOC enrichment**
+- ⚡ Reduces **manual analysis effort**
+- 📊 Provides **actionable threat insights**
+- 🛡️ Designed for **SOC & IR workflows**  
+
+🔗 [View Project](https://github.com/Vikram2003-07/osint-enrichment-tool)
+
+---
+
+### 🚖 SecureRide – Vulnerable vs Secure Cab Booking Platform
+A dual-version **web application** demonstrating security flaws & mitigations.
+
+- ⚠️ **Vulnerable Version** (XSS, SQLi, etc.)
+- 🛡️ **Secure Version** (best practices implemented)
+- 👥 Features: Auth, ride booking, admin dashboard
+- 💳 Simulated **payment gateway for testing attacks**  
+
+🔗 [View Project](https://github.com/Vikram2003-07/secureride)
 
 ---
 
@@ -60,11 +94,7 @@ Designed to help analysts quickly gather intelligence on suspicious indicators.
 Generate **strong (SHA-256), unique, reproducible passwords** from a single master key.
 The same master key always produces the **same password**.
 
----
-
-### ⌨️ KeyLogger
-
-A simple **Python keylogger program** built for educational purposes to understand **keylogger malware behavior**.
+🔗 [View Project](https://github.com/Vikram2003-07/VaultGen)
 
 ---
 
@@ -73,10 +103,21 @@ A simple **Python keylogger program** built for educational purposes to understa
 Transform any room with **one click**.
 Upload your room image, choose your style, and let **AI generate a stunning interior design** 🤩.
 
+- AI-Powered Design Suggestions - Get intelligent interior design recommendations based on room dimensions, style preferences, and budget
+- Room Visualization - Upload images of your space and see AI-generated design transformations
+- Multiple Design Styles - Explore various design aesthetics including modern, minimalist, industrial, rustic, contemporary, and more
+- Color Palette Generation - Automatic color scheme suggestions based on design preferences
+- Furniture Recommendations - AI-curated furniture suggestions tailored to your space and style
+- User Authentication - Secure user management with Clerk authentication
+- Project Management - Save, organize, and manage multiple design projects
+- Responsive Design - Seamless experience across desktop, tablet, and mobile devices
+- Real-time Collaboration - Share designs and get feedback in real-time
+
+🔗 [View Project](https://github.com/Vikram2003-07/Interior-Design-using-AI)
+
 ---
 
 ## 📊 GitHub Stats
-
 <p>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vikram2003-07&theme=tokyonight" />
@@ -85,19 +126,17 @@ Upload your room image, choose your style, and let **AI generate a stunning inte
 
 ---
 
+## 🏆 Cybersecurity Profiles
+
+[![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/Vikram0007.png)](https://tryhackme.com/p/Vikram0007)
+
+[![LetsDefend](https://img.shields.io/badge/LetsDefend-Profile-blue?style=for-the-badge&logo=shield&logoColor=white)](https://app.letsdefend.io/profile/Vikram0007)
+
 ## 👁 Visitor Counter
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=Vikram2003-07&label=Profile%20Views&color=00ff9c&style=flat" />
 </p>
-
----
-
-## 🌐 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vikram-g-d-19b3b7328/)
-
-[My Portfolio]()
 
 ---
 

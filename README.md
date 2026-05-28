@@ -5,7 +5,7 @@
 
 ## 🌐 Portfolio
 
-👉 [https://your-portfolio-link.com](https://your-portfolio-link.com)
+👉 [https://vikram-portfolio-beta.vercel.app/](https://vikram-portfolio-beta.vercel.app/)
 
 ## LinkedIn
 
@@ -16,9 +16,9 @@
 Cybersecurity enthusiast passionate about **web security, OSINT, and building security tools**.
 I enjoy learning through **CTFs, security research, and developing tools that help understand attacks and defenses**.
 
-* 🔭 Currently working on **CTF machine development**
-* 🧠 Learning **web exploitation, malware analysis, and SOC operations**
-* ⚡ Love building **security and OSINT tools**
+* 🔭 Currently working on **HomeLab Project**
+* 🧠 Learning **phishing email analysis, malware analysis, web exploitation and SOC operations**
+* ⚡ Love building **secure web apps and OSINT tools**
 
 ---
 
@@ -65,18 +65,6 @@ Browser-based **password intelligence & security toolkit**.
 
 ---
 
-### 🤖 Automated IOC Enrichment Tool
-SOC-focused **threat intelligence automation tool**.
-
-- 🔍 Automates **IOC enrichment**
-- ⚡ Reduces **manual analysis effort**
-- 📊 Provides **actionable threat insights**
-- 🛡️ Designed for **SOC & IR workflows**  
-
-🔗 [View Project](https://github.com/Vikram2003-07/osint-enrichment-tool)
-
----
-
 ### 🚖 SecureRide – Vulnerable vs Secure Cab Booking Platform
 A dual-version **web application** demonstrating security flaws & mitigations.
 
@@ -86,6 +74,18 @@ A dual-version **web application** demonstrating security flaws & mitigations.
 - 💳 Simulated **payment gateway for testing attacks**  
 
 🔗 [View Project](https://github.com/Vikram2003-07/secureride)
+
+---
+
+### 🤖 Automated IOC Enrichment Tool
+SOC-focused **threat intelligence automation tool**.
+
+- 🔍 Automates **IOC enrichment**
+- ⚡ Reduces **manual analysis effort**
+- 📊 Provides **actionable threat insights**
+- 🛡️ Designed for **SOC & IR workflows**  
+
+🔗 [View Project](https://github.com/Vikram2003-07/osint-enrichment-tool)
 
 ---
 
@@ -144,7 +144,7 @@ Upload your room image, choose your style, and let **AI generate a stunning inte
 
 I enjoy **breaking applications to understand how to secure them** 🔐
 
-Most of my learning comes from **CTFs, building vulnerable systems, and experimenting with security tools**.
+Most of my learning comes from **HomeLab, Log analysis, CTFs, building vulnerable systems, and experimenting with security tools**.
 
 ---
 

@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋 I'm Vikram</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00FF9C&center=true&vCenter=true&width=700&lines=Cybersecurity+Enthusiast;Aspiring+SOC+Analyst;Defensive+Security+Enthusiast;Security+Tool+Developer;OSINT+Explorer" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00FF9C&center=true&vCenter=true&width=900&lines=Aspiring+SOC+Analyst;Threat+Detection+%26+Incident+Response;Splunk+SIEM+%7C+Active+Directory;SOC+Investigations+%7C+MITRE+ATT%26CK;Building+Practical+Cybersecurity+Labs" />
 </p>
 
 ## 🌐 Portfolio
@@ -9,16 +9,16 @@
 
 ## LinkedIn
 
-👉 [https://www.linkedin.com/in/vikram-g-d-19b3b7328/](https://www.linkedin.com/in/vikram-g-d-19b3b7328/)
+👉 [https://www.linkedin.com/in/vikramgd/](https://www.linkedin.com/in/vikramgd/)
 
 ## 👨‍💻 About Me
 
-Cybersecurity enthusiast passionate about **web security, OSINT, and building security tools**.
-I enjoy learning through **CTFs, security research, and developing tools that help understand attacks and defenses**.
+Aspiring **SOC Analyst** passionate about **threat detection, incident response, and blue team operations**. I enjoy building cybersecurity labs, analyzing security events, and documenting real-world investigations to strengthen my practical SOC skills.
 
-* 🔭 Currently working on **HomeLab Project**
-* 🧠 Learning **phishing email analysis, malware analysis, web exploitation and SOC operations**
-* ⚡ Love building **secure web apps and OSINT tools**
+- 🛡️ Building a **SIEM & Active Directory Home Lab**
+- 🔍 Investigating real-world security incidents and writing SOC reports
+- 🧠 Learning **Splunk, Threat Hunting, Malware Analysis, and Digital Forensics**
+- ⚡ Building cybersecurity labs, detection rules, and CTF challenges
 
 ---
 
@@ -40,6 +40,30 @@ I enjoy learning through **CTFs, security research, and developing tools that he
 ---
 
 ## 🧪 Featured Projects
+
+### 🛡️ SOC Investigation Reports
+
+Collection of real-world **SOC investigations** completed using LetsDefend and TryHackMe scenarios.
+
+- 🔍 Investigated 30+ security alerts
+- 🦠 Covered Phishing, Malware, Brute Force, LFI, Web Attacks, Ransomware, and more
+- 🎯 IOC enrichment using VirusTotal, ANY.RUN, Hybrid Analysis
+- 📊 MITRE ATT&CK mapping, timelines, and remediation recommendations
+- 📝 Professional investigation reports in SOC analyst format
+
+🔗 [View Project](https://github.com/Vikram2003-07/SOC-Investigations)
+
+### 🖥️ SIEM & Active Directory Home Lab
+
+Enterprise-style **SOC Home Lab** built for attack simulation and threat detection.
+
+- 🏢 Active Directory domain with Windows 10 endpoints
+- 📈 Splunk SIEM for centralized log collection and analysis
+- 🐧 Kali Linux used to simulate attacker activities
+- 🚨 Custom detections for Brute Force, Authentication Events, and Windows Logs
+- 📊 Dashboards, alerts, and end-to-end SOC workflow practice
+
+🔗 [View Project](https://github.com/Vikram2003-07/Homelab)
 
 ### 🧠 KramCom CTF Platform
 Custom-built **Capture The Flag (CTF) lab** designed to simulate real-world cybersecurity challenges.
@@ -128,7 +152,7 @@ Upload your room image, choose your style, and let **AI generate a stunning inte
 
 ## 🏆 Cybersecurity Profiles
 
-[![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/Vikram0007.png)](https://tryhackme.com/p/Vikram0007)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-Profile-red?style=for-the-badge&logo=tryhackme)](https://tryhackme.com/p/Vikram0007)
 
 [![LetsDefend](https://img.shields.io/badge/LetsDefend-Profile-blue?style=for-the-badge&logo=shield&logoColor=white)](https://app.letsdefend.io/profile/Vikram0007)
 
